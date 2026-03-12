@@ -1,5 +1,2 @@
-#Willes World
-
-A Willes World
-
+#Wild World
 A fabric modpack。
